@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class UIScript : MonoBehaviour
 {
@@ -23,7 +24,9 @@ public class UIScript : MonoBehaviour
 
   public void OnButton2_Click()
   {
-    Debug.Log("You have clicked Button2");
+    //Debug.Log("You have clicked Button2");
+    SceneManager.LoadScene("MainScene");
+
   }
 
   public void OnButton3_Click()
