@@ -1,4 +1,4 @@
-# Example Rpository
+# Example Repository
 
 ## This is my second headig
 ### This in my third heading
