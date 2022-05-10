@@ -29,3 +29,6 @@ public void OnButton1_Click()
   }
 
 ```
+
+### Here is an image.
+![Bezier curve](https://github.com/shamim-akhtar/bezier-curve/blob/main/bez.jpg)
